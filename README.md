@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <a href=''>Ivan</a></h1>
-<h3>Machine Learning , Data science</h3>
+<h1 align="center">Hi</h1>
+<h3>Gamedev developer</h3>
 
 <hr>
 <h3>my stack:</h3>
@@ -8,18 +8,6 @@
   <tr>
     <th>Технология</th>
     <th>Логотип</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python logo"></td>
-  </tr>
-  <tr>
-    <td>NumPy</td>
-    <td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy logo"></td>
-  </tr>
-    <tr>
-    <td>Pandas</td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas logo"></td>
   </tr>
     <tr>
     <td>Docker</td>
